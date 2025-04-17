@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rukhsar Ahmed</h1>
-<h3 align="center">A Passionate Software Developer | Full Stack Engineer | Tech Enthusiast</h3>
+<h3 align="center">A Passionate Software Developer | Almost A Full Stack Engineer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Developer;Lifelong+learner+and+problem+solver" alt="Typing SVG" />
@@ -9,18 +9,18 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 I love building full-stack web applications with clean and scalable code  
-- 🚀 Currently working on modern React + Node.js projects  
+- 💻 I love building web applications with clean and scalable code  
+- 🚀 Currently working on modern React + Graphic Designing projects  
 - 📚 Always exploring new tech & contributing to open-source  
 - 🤝 Open to freelance work, collaborations, and exciting tech challenges  
-- 📫 How to reach me: **rukhsarahmed@example.com**
+- 📫 How to reach me: **rukhsarnaich77@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,java,cpp,html,css,tailwind,firebase,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,bootstrap,firebase,vite,git,github,linux,vscode" />
 </p>
 
 ---
@@ -32,12 +32,13 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RukhsarAhmed77&theme=default&hide_border=false" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RukhsarAhmed77&theme=modern-lilac&short_numbers=true&mode=weekly&card_width=505" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RukhsarAhmed77&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
 
 ---
 
